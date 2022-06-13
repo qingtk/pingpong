@@ -1,37 +1,120 @@
-## Welcome to GitHub Pages
+## 迷彩乒乓
 
-You can use the [editor on GitHub](https://github.com/qingtk/pingpong/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+在麓山国际实验学校前的小区打球，欢迎大家来和我一起练球。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+追求的风格：轻灵飘洒 简洁明快 诗意变幻
 
-### Markdown
+### 要点与特点：
+1. 胸怀天下，俯视对手，出手大气，快捷干脆，酣畅淋漓。引球过网的动作一定要明显又到位，控球落台的修饰符动作也要心中有数，球拍向前运动的力量和幅度要大，出球后有时可把球拍挥过头顶。
+2. 右手横拍执拍，执拍较浅。执拍手每靠后1mm，你的控球直径就增加2mm。
+3. 数字化练球：
+    ① 球台(xOy平面)划分为2×4×3=2×12=24个矩形区域，球台表面的中央为三维直角坐标系的原点O，x轴正方向为球网底线向右，y轴向前指向对方台面中线，z轴向上指向天空。
+    ② 利用软件统计分析：得分、 失分、 动作技术、 球落点、速度、擦边球、网线球
+    ③ 球拍击球点、运拍方向、角度的数字化分析
+    ④乒乓球与音乐，12×2个矩形区域对应24个音符🎶
+4. 见招拆招：每次回球采用最佳最稳最犀利的击球招式，有种下棋或武侠剑法的韵味在里面
+5. 打出变化与诗意：尽量不要连续3次以上同样方式回球，也尽量不要连续多次的把球回到对方台面12个之一的同一区域，避免审美疲劳; 挥拍有时可做直线运动，把球拍当成一个物理学上的理想平面
+6. 对称原理：反手控球对称性的从自己的正手控球上学习，引球过网或推球过网的动作要明显，对高球则要掩拍压球
+7. 时刻抓住机会给对方制造 **凌厉一击**，打击对方士气
+8. 留意对方的破绽，注意每次回球落点的直觉选择。自己主练时，尽量不要当陪练式的将球回到对方球拍笼罩的前下方
+9. 探索性的练习击球方式，体味细微变化以及修饰符动作
+10. 对手好球假设：准备充分的回击对方的擦边球、网球或边线球，不要有侥幸心理, 不要去伸手抓球；扑杀或爆扣要过高估计一下对方的反应速度
+11. 练球时，对每个失球动作做一番思考与空拍改进
+12. 安全原则：吊边时要确保上台；搓与削等都以球落上台为第一目的，凶悍刁蛮为次要目的
+13. 挥拍动作用力不要太猛，避免手臂肌肉酸痛; 保留潜力，始终相信自己还可以打得更好
+14. 预先启动
+15. 与同学和队友一起事先设计练球方式，有目的有计划的系统的全面的进行训练
+16. 平时可以设计并实践双手双腿的迅疾度练习游戏、反应能力游戏，打打羽毛球、篮球、网球🎾，踢踢足球，练习体操与单双杠，弹弹吉他和钢琴，多角度提高体能与乒乓球技
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+从容 韧性 专注 快乐 激扬 切勿急躁 切勿轻敌 比赛亲近在场观众
 
-```markdown
-Syntax highlighted code block
+关键词: 护航 修饰符 直线平面打法 引球过网或推球过网 预先启动 空拍改进 自然甩
 
-# Header 1
-## Header 2
-### Header 3
+### 击球招式
 
-- Bulleted
-- List
+1. 扑、扣：近台扑杀,  修饰符〈拍面微微上翻或下盖〉
+			反手扣杀  
+2. 拉、提
+	❶拍面垂直地面，拍尖指向正右方的拉球
+	❷从右向「左前斜上」方拉球
+	❸对称性的用反手黑胶拉球
+	❹瞒天过海: 拍隐藏在台面下，向左或向右拉球，抖腕
+	❺Jackson拉: 黑胶
+	❶平明送客
+	❷狲猴献桃🍑
+   
+3. 抽、搧
+     ❶从「右后下」引拍搧向「前上左」方
+     ❷从左往右搧，落点选择远角或近角
+     ❸扔飞刀 反手扔飞刀一样的挥拍，注意引拍动作，引球过网动作要明显，修饰符〈挑高〉〈掩压〉
+     ❹滑板
+     ❺火眼金睛：
+     ❻仙人指路：
+     ❼春风拂柳：
+     ❽自然甩  倾情自然甩
+     
 
-1. Numbered
-2. List
+4. 推、挡、撞
 
-**Bold** and _Italic_ and `Code` text
+5. 搓
 
-[Link](url) and ![Image](src)
-```
+6. 排
+     ❶赶鸭子
+     ❷黄河入海
+     ❸羊城摆荡
+7.  削
+  ❶打水漂
+8. 刺
+❶荆轲刺秦
+9. 抬、挑
+10. 割稻禾 使用拍的正面，从右往「左下」方割出低跳球，边侧球
+11. 削铅笔    使用拍的反面，从左往「右前下」方削出低跳球，边侧球
+12. 切豆腐  拍的正面向左切球，使球飘落到对方球台近网边侧
+13. 抵 拍面平行网线正对台面，二面角为钝角，向前方抵球，注意用球拍的下半部触球，拍协同球微微上升，可以有效保险的对付对方搓出来的或削出来的低沉侧冲的又急又旋的球，修饰符〈快速往侧边分拍〉
+14. 
+15. 按、摁
+16. 砍切与下划
+❶凄惶斩
+❷挥鞭断流
+17. 劈与磕
+  ❶力劈华山：利用球拍的边圈击球，球拍垂直地平面，把球劈上对方台面。花式出招 
+❷ 浪遏飞舟：利用球拍的边圈击球,看准来球从斜上方磕击下去，短球则磕击球的赤道，长球则磕击球的南纬热带
+磕和劈都会使球在对方台面上的落点具有很大的不确定性，而只要磕准弹出的球，磕上台很容易, 尤其是对付近网短球很有效。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+18. 拨
+19. 刮与撕
+	❶刮彩票
 
-### Jekyll Themes
+### 草稿
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qingtk/pingpong/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+20. 挡与撞 推
+  推挡 可附带的斜向切球
+	❶螳臂挡车
+  撞  对付对手的大力抽搧，修饰符〈球拍向后下方沉〉，sink，
+	❷拦截飞毛腿 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. 侧移步大力提拉
+2. 左后跳步撞挑切 修饰符〈掩压〉
+3. 右脚向左跨步撞挑切
+4. 退后一步掩搧或提送
+5. 前进一步提送边线球
+6. 右脚前进一步野马分鬃
+7. 侧身抽搧，滑板
+8. 双脚跳起狂浪掩搧
+
+连续三招内的组合杀着
+- 1. 提送低平的边侧球 → 2. 自然甩到另一侧远角
+- 1. 抽搧长球,使对手退后较远接球 → 2. 快速拨近网球
+- 
+
+发球与接球：
+
+打乒乓球与Pos造型：
+- 战马出征
+- 左侧跳起反手扣杀
+
+护球练习
+切球练习
+放松练习
+吊高球练习
